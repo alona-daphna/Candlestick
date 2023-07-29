@@ -1,0 +1,15 @@
+{
+  "name": "stockgraph",
+  "version": "1.0.0",
+  "description": "Plot stock data history on a graph",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apexcharts": "^3.41.0",
+    "dotenv": "^16.3.1"
+  }
+}
